@@ -1,0 +1,132 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+.section-1
+{
+    background-image: url("../Images/City-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    opacity: 0.8;
+}
+.text-1
+{
+    color: aliceblue;
+    letter-spacing: 8px;
+    background-color: black;
+    display: inline-block;
+    margin:25%;
+    margin-left: 480px;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.section-2
+{
+    background-color:#f4f4f4;
+    color: #666;
+    text-align: center;
+    padding: 50px;
+    height: 50vh;
+    font-size: 20px;
+    font-family:'Roboto', Arial, Helvetica, sans-serif;
+}
+.section-2, h2
+{
+padding-bottom: 20px;
+}
+.section-3
+{
+    background: url("../Images/light.jpg");
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+.text-3
+{
+    color: aliceblue;
+    letter-spacing: 8px;
+    
+    display: inline-block;
+    margin:10%;
+    margin-left: 500px;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.section-4
+{
+    background-color:#282e34;
+    color: #ddd;
+    text-align: center;
+    padding: 50px;
+    height: 50vh;
+    font-size: 20px;
+    font-family:'Roboto', Arial, Helvetica, sans-serif;
+}
+.section-4, h2
+{
+padding-bottom: 20px;
+}
+.section-5
+{
+    background-image: url("../Images/City-2.jpg");
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+.text-5
+{
+    color: aliceblue;
+    letter-spacing: 8px;
+    
+    display: inline-block;
+    margin:10%;
+    margin-left: 500px;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.section-6
+{
+    background-color:#282e34;
+    color: #ddd;
+    text-align: center;
+    padding: 50px;
+    height: 50vh;
+    font-size: 20px;
+    font-family:'Roboto', Arial, Helvetica, sans-serif;
+}
+.section-6, h2
+{
+padding-bottom: 20px;
+}
+.section-7
+{
+    background-image: url("../Images/City-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 150vh;
+    opacity: 0.8;
+}
+.text-7
+{
+    color: aliceblue;
+    letter-spacing: 8px;
+    background-color: black;
+    display: inline-block;
+    
+    margin-top: 620px;
+    margin-left: 500px;
+    padding: 15px;
+    padding-bottom: 1px;
+    font-family: 'Roboto', sans-serif;
+    
+}
